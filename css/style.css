@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.weather-container {
+    background-color: #fff;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.weather h1 {
+    color: #333;
+}
+
+.weather h2, .weather h3 {
+    margin: 10px 0;
+    color: #666;
+}
+
+.weather h3 {
+    font-size: 18px;
+}
+
+.weather span {
+    font-weight: bold;
+    color: #000;
+}
